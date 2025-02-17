@@ -1,0 +1,14 @@
+C:\Users\ugobo\source\repos\ExerciceTransaction\ExerciceTransaction\bin\Debug\net8.0\ExerciceTransaction.exe
+C:\Users\ugobo\source\repos\ExerciceTransaction\ExerciceTransaction\bin\Debug\net8.0\ExerciceTransaction.deps.json
+C:\Users\ugobo\source\repos\ExerciceTransaction\ExerciceTransaction\bin\Debug\net8.0\ExerciceTransaction.runtimeconfig.json
+C:\Users\ugobo\source\repos\ExerciceTransaction\ExerciceTransaction\bin\Debug\net8.0\ExerciceTransaction.dll
+C:\Users\ugobo\source\repos\ExerciceTransaction\ExerciceTransaction\bin\Debug\net8.0\ExerciceTransaction.pdb
+C:\Users\ugobo\source\repos\ExerciceTransaction\ExerciceTransaction\obj\Debug\net8.0\ExerciceTransaction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ugobo\source\repos\ExerciceTransaction\ExerciceTransaction\obj\Debug\net8.0\ExerciceTransaction.AssemblyInfoInputs.cache
+C:\Users\ugobo\source\repos\ExerciceTransaction\ExerciceTransaction\obj\Debug\net8.0\ExerciceTransaction.AssemblyInfo.cs
+C:\Users\ugobo\source\repos\ExerciceTransaction\ExerciceTransaction\obj\Debug\net8.0\ExerciceTransaction.csproj.CoreCompileInputs.cache
+C:\Users\ugobo\source\repos\ExerciceTransaction\ExerciceTransaction\obj\Debug\net8.0\ExerciceTransaction.dll
+C:\Users\ugobo\source\repos\ExerciceTransaction\ExerciceTransaction\obj\Debug\net8.0\refint\ExerciceTransaction.dll
+C:\Users\ugobo\source\repos\ExerciceTransaction\ExerciceTransaction\obj\Debug\net8.0\ExerciceTransaction.pdb
+C:\Users\ugobo\source\repos\ExerciceTransaction\ExerciceTransaction\obj\Debug\net8.0\ExerciceTransaction.genruntimeconfig.cache
+C:\Users\ugobo\source\repos\ExerciceTransaction\ExerciceTransaction\obj\Debug\net8.0\ref\ExerciceTransaction.dll
